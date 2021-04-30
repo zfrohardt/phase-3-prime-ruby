@@ -1,9 +1,9 @@
-# Implementing Prime
+# Finding Prime Numbers Lab
 
-## Objectives
+## Learning Goals
 
-1. Practice iteration and looping.
-2. Practice defining methods and controlling return values.
+- Practice iteration and looping
+- Practice defining methods and controlling return values
 
 ## Instructions 
 
@@ -27,5 +27,3 @@ Think about the efficiency of your algorithm. How many iterations does it do? Lo
 ## Resources
 * [Basic Benchmarking in Ruby](http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/)
 * [Wikipedia](http://en.wikipedia.org/) - [Prime number](http://en.wikipedia.org/wiki/Prime_number)
-
-
